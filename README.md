@@ -40,7 +40,7 @@ git clone https://github.com/Swastik0710/To_Do_List/.git
 ```
 - Navigate to the project directory:
 ```
-cd enhanced-todo-app
+cd To_Do_List
 ```
 - Open index.html in your browser:
 ```
